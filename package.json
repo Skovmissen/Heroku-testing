@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skovmissen/Heroku-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skovmissen/Heroku-testing/issues"
+  },
+  "homepage": "https://github.com/Skovmissen/Heroku-testing#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jasmine-node": "^1.14.5"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.6.0"
+  }
+}
